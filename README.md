@@ -6,6 +6,10 @@
 
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askasjeremy)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <a href="https://app.daily.dev/askasjeremy"><img src="https://github.com/askasjeremy/askasjeremy/blob/main/devcard.svg" width="300" alt="Askas Jeremy's Dev Card"/></a>
 
 <!---
