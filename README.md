@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning The Angular Framework
 - 💞️ I’m looking to collaborate on Database Design / Json apis
-- 📫 How to reach me jeremy.jasereka@gmail.com
+- 📫 How to reach me jeremy@fleedtech.com
 
 <br>
 
