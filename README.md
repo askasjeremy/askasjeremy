@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @askasjeremy
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning The Angular Framework
+- 🌱 I’m currently learning low-level programming languages.
 - 💞️ I’m looking to collaborate on Database Design / Json apis
-- 📫 How to reach me jeremy@fleedtech.com
+- 📫 How to reach me contact@askasjeremy.com
 
 <br>
 
